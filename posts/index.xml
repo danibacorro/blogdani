@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog de Dani</title>
+    <link>https://danibacorro.github.io/blogdani/posts/</link>
+    <description>Recent content in Posts on Blog de Dani</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 03 Oct 2025 20:01:06 +0200</lastBuildDate>
+    <atom:link href="https://danibacorro.github.io/blogdani/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba2</title>
+      <link>https://danibacorro.github.io/blogdani/posts/prueba2/</link>
+      <pubDate>Fri, 03 Oct 2025 20:01:06 +0200</pubDate>
+      <guid>https://danibacorro.github.io/blogdani/posts/prueba2/</guid>
+      <description>pruebita 2</description>
+    </item>
+    <item>
+      <title>Prueba1</title>
+      <link>https://danibacorro.github.io/blogdani/posts/prueba1/</link>
+      <pubDate>Fri, 03 Oct 2025 20:01:03 +0200</pubDate>
+      <guid>https://danibacorro.github.io/blogdani/posts/prueba1/</guid>
+      <description>pruebita 1</description>
+    </item>
+  </channel>
+</rss>
