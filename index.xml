@@ -6,8 +6,15 @@
     <description>Recent content on Blog de Dani</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Oct 2025 12:17:59 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 12:21:54 +0100</lastBuildDate>
     <atom:link href="https://danibacorro.github.io/blogdani/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba: Introducción a la implantación de aplicaciones web</title>
+      <link>https://danibacorro.github.io/blogdani/posts/prueba/</link>
+      <pubDate>Thu, 30 Oct 2025 12:21:54 +0100</pubDate>
+      <guid>https://danibacorro.github.io/blogdani/posts/prueba/</guid>
+      <description>Prueba: Introducción a la implantación de aplicaciones web Daniel Baco de Besa, 30 de octubre de 2025.</description>
+    </item>
     <item>
       <title>Instalación Mongo</title>
       <link>https://danibacorro.github.io/blogdani/posts/mongo/</link>
